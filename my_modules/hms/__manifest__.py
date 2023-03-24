@@ -9,5 +9,7 @@
     'application': True,
     'data': [
         'views/hms_views.xml',
+        'views/departments.xml',
+        'views/doctor.xml',
     ]
 }
